@@ -19,8 +19,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/bruteforce-passwords.git
-   cd bruteforce-passwords
+   git clone https://github.com/OussamaMahmoudiCybersec/BruteForce-Passwords.git
+   cd Bruteforce-Passwords
    ```
 
 2. **Prepare the Password List**
